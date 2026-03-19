@@ -1,5 +1,4 @@
 # E-Commerce Sales & Cuustomer Insights Dashboard
-
 📊 Project Outline:
 This project analyzes transactional e-commerce data to uncover trends in revenue, product performance, geographic distribution, and customer segmentation. Using SQL for data cleaning and transformation and Tableau for visualization, this dashboard provides an interactive view of key business metrics.
 
