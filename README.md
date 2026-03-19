@@ -18,24 +18,25 @@ The dataset contains transactions occurring between December 2010 and December 2
 
 🧹 Data Cleaning & Preparation
 Data was cleaned and transformed using SQL, including:
--Removing cancelled transactions (negative quantities)
--Handling missing Customer IDs
--Creating a revenue column (Quantity × Unit Price)
--Standardizing date formats
--Aggregating customer-level revenue
+
+- Removing cancelled transactions (negative quantities)
+- Handling missing Customer IDs
+- Creating a revenue column (Quantity × Unit Price)
+- Standardizing date formats
+- Aggregating customer-level revenue
 
 📈 Key Analysis & Features
 1. Monthly Revenue Trend
--Analyzes revenues over time to identify seasonality and growth patterns.
+- Analyzes revenues over time to identify seasonality and growth patterns.
 2. Top Products by Revenue
--Identifies the highest-performing products contributing to overall revenue.
+- Identifies the highest-performing products contributing to overall revenue.
 3. Top Countries by Revenue (Excluding UK)
--Highlights international market performance while excluding the UK (primary market) for clearer comparison.
+- Highlights international market performance while excluding the UK (primary market) for clearer comparison.
 4. Customer Segmentation
--Customers were segmented based on total revenue:
-  -High value: ≥ $100,000
-  -Mid Value: $50,000-$99,999
-  -Low Value: < $50,000
+- Customers were segmented based on total revenue:
+  - High value: ≥ $100,000
+  - Mid Value: $50,000-$99,999
+  - Low Value: < $50,000
 
 🔍 Key Insights
 -Revenue shows an overall upward trend with strong growth in the later months of 2011.
