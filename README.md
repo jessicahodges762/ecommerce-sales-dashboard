@@ -17,6 +17,7 @@ This dataset is publicly available and commonly used for data analysis practice:
 The dataset contains transactions occurring between December 2010 and December 2011 for a UK-based online retailer.
 
 🧹 Data Cleaning & Preparation
+
 Data was cleaned and transformed using SQL, including:
 
 - Removing cancelled transactions (negative quantities)
