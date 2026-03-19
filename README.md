@@ -47,6 +47,9 @@ Data was cleaned and transformed using SQL, including:
 - Outside of the UK, revenue is nearly evenly split between low- and high-value customers, indicating a polarized customer base internationally.
 
 📈 Dashboard Preview
+
+Download the Tableau workbook to explore the dashboard:
+👉 [Download Tableau Dashboard](ecommerce_analysis_dashboard.twbx)
 ![Dashboard](https://github.com/user-attachments/assets/be97c026-b8cd-467e-88fb-4bfa76ea1fd0)
 
 🚀 How to Use:
